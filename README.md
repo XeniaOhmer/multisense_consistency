@@ -1,6 +1,8 @@
 # multisense_consistency
 
-This repository accompanies the paper "Separating form and meaning: Using self-consistency to quantify task understanding across multiple senses".
+This repository accompanies the publication:
+
+Xenia Ohmer, Elia Bruni, and Dieuwke Hupkes. "Separating form and meaning: Using self-consistency to quantify task understanding across multiple senses". Proceedings of the 3rd Workshop on Natural Language Generation, Evaluation, and Metrics (GEM). Association for Computational Linguistics.
 
 The different senses (here: translations) of the tasks were generated with *translate.py*. The translations can be found in the folder *translations_gpt-3.5-turbo*.
 
